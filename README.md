@@ -39,7 +39,7 @@ A web application replicating the user interface and some functionalities of the
 ### 2. Chatbot using OpenAI
 An interactive chatbot leveraging OpenAI's powerful natural language processing capabilities. Developed with CSS, ReactJS, and integrated with the OpenAI API.
 
-### 3. SparkPost - An Experimental Social App
+### 3. Twitter's Clone
 An experimental social application designed to explore innovative features and interactions, emphasizing a user-centric approach. Created using CSS, Next.js, TypeScript, JSX, and MongoDB serving as the database.
 
 <!-- Soft Skills Section -->
