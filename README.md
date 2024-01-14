@@ -33,7 +33,7 @@
 <!-- Projects Section -->
 ## Projects
 
-### 1. Dominos Clone
+### 1. Domino's Clone
 A web application replicating the user interface and some functionalities of the Domino's Pizza website. Built with HTML, CSS, and JavaScript.
 
 ### 2. Chatbot using OpenAI
