@@ -53,7 +53,7 @@ An interactive chatbot leveraging OpenAI's powerful natural language processing 
 
 5. Users can like posts and leave comments on posts, allowing for interaction and engagement.
 
-## Technologies Used:
+6. Technologies Used:
 
 - **CSS:** Styling language for designing the user interface.
 - **Next.js:** A React framework for building web applications, providing features like server-side rendering and easy routing.
