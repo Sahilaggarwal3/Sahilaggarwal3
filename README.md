@@ -39,8 +39,27 @@ A web application replicating the user interface and some functionalities of the
 ### 2. Chatbot using OpenAI
 An interactive chatbot leveraging OpenAI's powerful natural language processing capabilities. Developed with CSS, ReactJS, and integrated with the OpenAI API.
 
-### 3. Twitter's Clone
-An experimental social application designed to explore innovative features and interactions, emphasizing a user-centric approach. Created using CSS, Next.js, TypeScript, JSX, and MongoDB serving as the database.
+### 3. An Experimental Social App
+
+# Key Features of the App:
+
+1. Users can create accounts by signing up with necessary information.
+
+2. Users have the ability to perform CRUD (Create, Read, Update, Delete) operations on their profile information. This includes managing their name, username, profile image, and bio.
+
+3. Users can share short messages as text posts.
+
+4. Users can follow/unfollow other accounts.
+
+5. Users can like posts and leave comments on posts, allowing for interaction and engagement.
+
+## Technologies Used:
+
+- **CSS:** Styling language for designing the user interface.
+- **Next.js:** A React framework for building web applications, providing features like server-side rendering and easy routing.
+- **TypeScript:** A superset of JavaScript that adds static types to the language.
+- **JSX:** A syntax extension for JavaScript used with React to describe what the UI should look like.
+
 
 <!-- Soft Skills Section -->
 ## Soft Skills
