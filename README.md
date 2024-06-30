@@ -39,7 +39,7 @@ A web application replicating the user interface and some functionalities of the
 ### 2. Chatbot using OpenAI
 An interactive chatbot leveraging OpenAI's powerful natural language processing capabilities. Developed with CSS, ReactJS, and integrated with the OpenAI API.
 
-### 3. An Experimental Social App
+### 3. Social Application Website
 
 # Key Features of the App:
 
