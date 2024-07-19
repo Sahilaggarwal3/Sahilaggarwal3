@@ -7,28 +7,24 @@
 <!-- Skills Section -->
 ## Skills
 
-### Core Technologies
-![HTML](https://img.shields.io/badge/HTML-🌐-informational?style=for-the-badge&logo=html5&color=E34F26)
-![CSS](https://img.shields.io/badge/CSS-🎨-informational?style=for-the-badge&logo=css3&color=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-💻-informational?style=for-the-badge&logo=javascript&color=F7DF1E)
+### Front-End Development
+- **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript
+- **Frameworks/Libraries:** React.js, Redux, React Router, Context API, Hooks, Next.js
+- **CSS Frameworks:** Tailwind CSS, Bootstrap
+- **Techniques:** Responsive and Adaptive UI Development, AJAX
 
-### Frameworks and Libraries
-![Bootstrap](https://img.shields.io/badge/Bootstrap-🅱-informational?style=for-the-badge&logo=bootstrap&color=563D7C)
-![ReactJS](https://img.shields.io/badge/ReactJS-⚛️-informational?style=for-the-badge&logo=react&color=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-🔄-informational?style=for-the-badge&logo=redux&color=764ABC)
+### Next.js
+- Server-side Rendering (SSR)
+- Static Site Generation (SSG)
+- API Routes
+- Dynamic Routing
+- Image Optimization
 
-### Responsive Design
-![Responsive Web Design](https://img.shields.io/badge/Responsive_Web_Design-📱-informational?style=for-the-badge&logo=responsive-design&color=00C7B7)
-![CSS Grid](https://img.shields.io/badge/CSS_Grid-🔲-informational?style=for-the-badge&logo=css-grid&color=009688)
-![Flexbox](https://img.shields.io/badge/Flexbox-📦-informational?style=for-the-badge&logo=flexbox&color=FFD700)
+### Tools
+- **Version Control:** Git, GitHub
+- **API Integration:** RESTful APIs
+- **Database:** Relational Databases, SQL
 
-### Query Language
-![SQL](https://img.shields.io/badge/SQL-🗃️-informational?style=for-the-badge&logo=sql&color=4479A1)
-
-### Current Learning
-![Next.js](https://img.shields.io/badge/Next.js-➡️-informational?style=for-the-badge&logo=next.js&color=000000)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-🌬️-informational?style=for-the-badge&logo=tailwindcss&color=38B2AC)
-![TypeScript](https://img.shields.io/badge/TypeScript-🔷-informational?style=for-the-badge&logo=typescript&color=3178C6)
 
 <!-- Projects Section -->
 ## Projects
