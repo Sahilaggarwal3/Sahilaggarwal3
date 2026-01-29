@@ -1,76 +1,129 @@
-<!-- Header Section -->
+<!-- Header -->
 <div align="center">
-  <h1>Hello, I'm Sahil! 👋</h1>
-  <p>A passionate front-end developer on a journey to create amazing web experiences.</p>
+  <h1>Hi, I'm Sahil Bansal 👋</h1>
+  <h3>Full Stack JavaScript Developer | React • Next.js • Node.js • MongoDB</h3>
+  <p>
+    Building scalable, user-focused web applications with modern JavaScript technologies.
+  </p>
 </div>
 
-<!-- Skills Section -->
-## Skills
+---
 
-### Front-End Development
-- **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript
-- **Frameworks/Libraries:** React.js, Redux, React Router, Context API, Hooks, Next.js
-- **CSS Frameworks:** Tailwind CSS, Bootstrap
-- **Techniques:** Responsive and Adaptive UI Development, AJAX
+## 👨‍💻 About Me
 
-### Next.js
-- Server-side Rendering (SSR)
-- Static Site Generation (SSG)
-- API Routes
-- Dynamic Routing
-- Image Optimization
+I’m a **Full Stack JavaScript Developer** with **2+ years of hands-on experience** building production-grade web applications using **React, Next.js, Node.js, and MongoDB**.
 
-### Tools
-- **Version Control:** Git, GitHub
-- **API Integration:** RESTful APIs
-- **Database:** Relational Databases, SQL
+- 🎓 Postgraduate Certificate in **Full Stack Software Development** (GPA: 3.8) — Lambton College, Ottawa  
+- 🚀 Experience delivering **scalable features** in Agile teams  
+- ⚡ Optimized backend performance by **35%** through database indexing and query optimization  
+- 🎯 Actively seeking **Junior–Intermediate Frontend / Full Stack Developer roles**
 
+---
 
-<!-- Projects Section -->
-## Projects
+## 🛠️ Technical Skills
 
-### 1. Domino's Clone
-A web application replicating the user interface and some functionalities of the Domino's Pizza website. Built with HTML, CSS, and JavaScript.
+### Frontend
+- JavaScript (ES6+), TypeScript  
+- React.js (Hooks, Context API)  
+- Next.js (SSR, SSG, API Routes, Dynamic Routing)  
+- HTML5, CSS3, Tailwind CSS, Bootstrap  
+- Responsive & Adaptive UI Design  
 
-### 2. Chatbot using OpenAI
-An interactive chatbot leveraging OpenAI's powerful natural language processing capabilities. Developed with CSS, ReactJS, and integrated with the OpenAI API.
+### Backend
+- Node.js, Express.js  
+- RESTful API Design  
+- Authentication: JWT, OAuth  
+- Middleware Architecture  
 
-### 3. Social Application Website
+### Databases
+- MongoDB, Mongoose ODM  
+- Database Indexing & Query Optimization  
+- SQL (PostgreSQL, MySQL)  
 
-# Key Features of the App:
+### Tools & Practices
+- Git, GitHub, GitLab  
+- Postman, npm/yarn, VS Code  
+- Agile/Scrum, Code Reviews  
+- Unit Testing (Exposure), CI/CD (Exposure)  
+- Basic Docker, AWS Fundamentals (learning)
 
-1. Users can create accounts by signing up with necessary information.
+---
 
-2. Users have the ability to perform CRUD (Create, Read, Update, Delete) operations on their profile information. This includes managing their name, username, profile image, and bio.
+## 🚀 Featured Projects
 
-3. Users can share short messages as text posts.
+### 🔹 Full-Stack Social Media Platform
+**Tech:** Next.js, TypeScript, MongoDB, Tailwind CSS  
 
-4. Users can follow/unfollow other accounts.
+- JWT-based authentication and user profiles  
+- CRUD operations for posts, comments, likes  
+- Follow / Unfollow functionality  
+- Image uploads with Cloudinary  
+- Optimized component architecture with TypeScript  
+- Deployed on **Vercel + MongoDB Atlas**
 
-5. Users can like posts and leave comments on posts, allowing for interaction and engagement.
+---
 
-6. Technologies Used:
+### 🔹 Gamified Task Management System
+**Tech:** Node.js, Express.js, MongoDB, React.js  
 
-- **CSS:** Styling language for designing the user interface.
-- **Next.js:** A React framework for building web applications, providing features like server-side rendering and easy routing.
-- **TypeScript:** A superset of JavaScript that adds static types to the language.
-- **JSX:** A syntax extension for JavaScript used with React to describe what the UI should look like.
+- RESTful APIs for task creation and progress tracking  
+- Gamification logic: XP points, badges, leaderboards  
+- Productivity dashboards with real-time updates  
+- Improved user engagement through reward mechanics  
 
+---
 
-<!-- Soft Skills Section -->
-## Soft Skills
+### 🔹 Domino’s Clone
+**Tech:** HTML, CSS, JavaScript  
 
-- Continuous Learning 📚
-- Time Management ⏰
-- User-Centric Focus 🎯
+- Pixel-accurate UI clone of Domino’s website  
+- Responsive layout and interactive components  
 
-<!-- Let's Connect Section -->
-## Let's Connect
+---
 
-- [LinkedIn](https://www.linkedin.com/in/sahil-bansal-9a1792250/) 💼
+### 🔹 AI Chatbot using OpenAI
+**Tech:** React.js, CSS, OpenAI API  
 
+- Interactive chatbot leveraging NLP capabilities  
+- API integration and dynamic UI updates  
 
-<!-- Closing Section -->
+---
+
+## 💼 Professional Experience
+
+### Full Stack Developer — **A2IT Pvt. Ltd.**
+**Aug 2022 – Aug 2023**
+
+- Delivered **20+ full-stack features** in Agile sprints  
+- Built **15+ REST APIs** handling 100k+ daily requests  
+- Reduced development time by **25%** via reusable React components  
+- Improved MongoDB response time by **35%** using compound indexes  
+- Mentored junior developers and participated in code reviews  
+
+---
+
+### Blockchain Backend Developer — **Tech Stack Solutions**
+**Oct 2023 – Feb 2024**
+
+- Developed Node.js backend services for NFT marketplace  
+- Integrated **Web3.js & Ethers.js** for Ethereum interactions  
+- Implemented APIs for minting, transferring, and querying NFTs  
+- Collaborated using Git-based workflows and pull requests  
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/143-sahil)
+- 💻 [GitHub](https://github.com/Sahilaggarwal3)
+- 📧 Email: sahilbansalsb8@gmail.com
+
+---
+
 <div align="center">
-  <p>Excited about creating immersive and user-friendly web experiences! Open to collaboration and always eager to explore new technologies. Let's build something amazing together! 🚀</p>
+  <p>
+    Passionate about building impactful products, writing clean code, and continuously learning.
+    <br />
+    Let’s build something meaningful together 🚀
+  </p>
 </div>
