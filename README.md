@@ -91,24 +91,14 @@ I’m a **Full Stack JavaScript Developer** with **2+ years of hands-on experien
 
 ## 💼 Professional Experience
 
-### Full Stack Developer — **A2IT Pvt. Ltd.**
-**Aug 2022 – Aug 2023**
+### Full Stack Developer — **Tech Stack Solutions**
+**Aug 2022 – Feb 2024**
 
 - Delivered **20+ full-stack features** in Agile sprints  
 - Built **15+ REST APIs** handling 100k+ daily requests  
 - Reduced development time by **25%** via reusable React components  
 - Improved MongoDB response time by **35%** using compound indexes  
 - Mentored junior developers and participated in code reviews  
-
----
-
-### Blockchain Backend Developer — **Tech Stack Solutions**
-**Oct 2023 – Feb 2024**
-
-- Developed Node.js backend services for NFT marketplace  
-- Integrated **Web3.js & Ethers.js** for Ethereum interactions  
-- Implemented APIs for minting, transferring, and querying NFTs  
-- Collaborated using Git-based workflows and pull requests  
 
 ---
 
